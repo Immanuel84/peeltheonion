@@ -2,7 +2,7 @@ importlib==1.0.4
 future==0.17.1
 lxml==4.2.5
 matplotlib==3.0.0
-numpy==1.15.2
+numpy==1.22.0
 pandas==0.23.4
 scapy==2.4.0
 scikit-datasets==0.1.15
